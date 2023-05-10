@@ -1,4 +1,0 @@
-// `app/page.js` is the UI for the root `/` URL
-export default function Posts() {
-  return <h1>My first post</h1>;
-}
